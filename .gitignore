@@ -1,0 +1,8 @@
+/build
+/models
+
+/.vscode
+/.xmake
+/.cache
+
+compile_commands.json
